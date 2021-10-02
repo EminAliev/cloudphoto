@@ -17,7 +17,7 @@ $ git clone https://github.com/EminAliev/cloudphoto.git
 $ python setup.py develop
 ```
 
-## Основные комманды
+## Основные команды
 
 1. `cloudphoto upload -p path_name -a album_name` - загрузка из локальной папки в облачное хранилище
 2. `cloudphoto download -p path_name -a album_name` - загрузка из облачного хранилища в локальную папку
